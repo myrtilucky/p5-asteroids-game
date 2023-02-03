@@ -310,7 +310,8 @@
 				
 				for (let i = 0; i < this.livesLeft; i++)
 				{
-					let live = loadImage("game-assets/spaceship-miniature.png");
+					let live = loadImage("game-assets/png-transparent-pink-flowers-flower-color-lilium-flower-thumbnail.png
+");
 					this.lives[i] = live;
 				}
 			}
