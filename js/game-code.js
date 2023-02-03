@@ -248,7 +248,7 @@
 			
 			constructor()
 			{
-				this.image = loadImage("game-assets/spaceship-2.png");
+				this.image = loadImage("game-assets/png-transparent-daisy-flower-in-basket-basket-large-basket-with-daisies-white-decoupage-color-thumbnail.png");
 				this.engineSound = createAudio("game-assets/engine.wav");
 			}
 			
