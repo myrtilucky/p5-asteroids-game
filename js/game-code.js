@@ -242,7 +242,7 @@
 		class SpaceShip
 		{
 			x = 640; // X position
-			y = 420; // Y position
+			y = 520; // Y position
 			
 			missiles = 0;
 			
