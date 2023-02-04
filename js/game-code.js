@@ -13,7 +13,7 @@
 				this.exploded = false;
 				
 				this.minSpeed = 6;
-				this.maxSpeed = 12;
+				this.maxSpeed = 13;
 				
 				this.image = asteroidImage;
 				this.explosionSound = createAudio("game-assets/explosion-05.wav");
